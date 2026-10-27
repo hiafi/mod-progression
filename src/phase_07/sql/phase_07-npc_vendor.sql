@@ -62,29 +62,11 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (1308, 22148, 0, 0, 0, 0), -- Wild Quillvine
 -- Maria Lumere <Alchemy Supplies>
 (1313, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Jasper Fel <Shady Dealer>
-(1325, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(1325, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(1325, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(1325, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(1325, 22055, 0, 0, 0, 0), -- Wound Poison V
--- Sloan McCoy <Poison Supplies>
-(1326, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(1326, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(1326, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(1326, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(1326, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Brother Cassius <Reagents>
 (1351, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (1351, 22148, 0, 0, 0, 0), -- Wild Quillvine
 -- Dewin Shimmerdawn <Alchemy Supplies>
 (1453, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Samor Festivus <Shady Dealer>
-(1457, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(1457, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(1457, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(1457, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(1457, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Falkan Armonis <Reagents>
 (1463, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (1463, 22148, 0, 0, 0, 0), -- Wild Quillvine
@@ -103,12 +85,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (2480, 18256, 0, 0, 0, 0), -- Imbued Vial
 -- Bliztik <Alchemy Supplies>
 (2481, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Sly Garrett <Shady Goods>
-(2622, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(2622, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(2622, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(2622, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(2622, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Mazk Snipeshot <Engineering Supplies>
 (2685, 28060, 0, 0, 0, 0), -- Impact Shot
 -- Malygen <General Goods>
@@ -144,12 +120,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (3002, 20824, 0, 0, 0, 0), -- Simple Grinder
 -- Kuna Thunderhorn <Bowyer & Fletching Goods>
 (3015, 28053, 0, 0, 0, 0), -- Wicked Arrow
--- Gerald Crawley <Poison Supplies>
-(3090, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3090, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3090, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3090, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3090, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Mani Winterhoof <Alchemy Supplies>
 (3010, 18256, 0, 0, 0, 0), -- Imbued Vial
 -- Nida Winterhoof <Herbalism Supplies>
@@ -157,12 +127,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 -- Herble Baubbletump <Engineering & Mining Supplies>
 (3133, 20815, 0, 0, 0, 0), -- Jeweler's Kit
 (3133, 20824, 0, 0, 0, 0), -- Simple Grinder
--- Malissa <Poison Supplies>
-(3135, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3135, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3135, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3135, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3135, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Wuark <Armorer & Shieldcrafter>
 (3167, 20815, 0, 0, 0, 0), -- Jeweler's Kit
 (3167, 20824, 0, 0, 0, 0), -- Simple Grinder
@@ -174,12 +138,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 -- Horthus <Reagents>
 (3323, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (3323, 22148, 0, 0, 0, 0), -- Wild Quillvine
--- Rekkul <Poison Supplies>
-(3334, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3334, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3334, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3334, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3334, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Hagrus <Reagents>
 (3335, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (3335, 22148, 0, 0, 0, 0), -- Wild Quillvine
@@ -198,40 +156,10 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (3367, 18256, 0, 0, 0, 0), -- Imbued Vial
 -- Zeal'aya <Herbalism Supplies>
 (3405, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Hula'mahi <Reagents, Herbs & Poison Supplies>
-(3490, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3490, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3490, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3490, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3490, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Sarah Raycroft <General Goods>
 (3541, 28060, 0, 0, 0, 0), -- Impact Shot
--- Jaysin Lanyda <Poisons & Reagents>
-(3542, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3542, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3542, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3542, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3542, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Selina Weston <Alchemy & Herbalism Supplies>
 (3548, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Patrice Dwyer <Poison Supplies>
-(3551, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3551, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3551, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3551, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3551, 22055, 0, 0, 0, 0), -- Wound Poison V
--- Kyrai <Poison Supplies>
-(3561, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3561, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3561, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3561, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3561, 22055, 0, 0, 0, 0), -- Wound Poison V
--- Fahran Silentblade <Tools & Supplies>
-(3969, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(3969, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(3969, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(3969, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(3969, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Dalaran Miner
 (3578, 20815, 0, 0, 0, 0), -- Jeweler's Kit
 (3578, 20824, 0, 0, 0, 0), -- Simple Grinder
@@ -302,12 +230,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 -- Hannah Akeley <Reagents>
 (4575, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (4575, 22148, 0, 0, 0, 0), -- Wild Quillvine
--- Ezekiel Graves <Poison Supplies>
-(4585, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(4585, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(4585, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(4585, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(4585, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Sarah Killian <Mining Supplies>
 (4599, 20815, 0, 0, 0, 0), -- Jeweler's Kit
 (4599, 20824, 0, 0, 0, 0), -- Simple Grinder
@@ -346,12 +268,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (5151, 22148, 0, 0, 0, 0), -- Wild Quillvine
 -- Burbik Gearspanner <Trade Supplies>
 (5163, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Tynnus Venomsprout <Shady Dealer>
-(5169, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(5169, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(5169, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(5169, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(5169, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Soolie Berryfizz <Alchemy Supplies>
 (5178, 18256, 0, 0, 0, 0), -- Imbued Vial
 -- Eldraeith <Herbalism Supplies>
@@ -382,12 +298,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 (6298, 20824, 0, 0, 0, 0), -- Simple Grinder
 -- Gorbold Steelhand <Trade Supplies>
 (6301, 18256, 0, 0, 0, 0), -- Imbued Vial
--- Smudge Thunderwood <Poison Supplies>
-(6779, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(6779, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(6779, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(6779, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(6779, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Faralorn <General Supplies>
 (7942, 28053, 0, 0, 0, 0), -- Wicked Arrow
 (7942, 28060, 0, 0, 0, 0), -- Impact Shot
@@ -483,11 +393,6 @@ INSERT INTO `npc_vendor` (`entry`, `item`, `maxcount`, `incrtime`, `ExtendedCost
 -- Khur Hornstriker <Reagents>
 (15175, 22147, 0, 0, 0, 0), -- Flintweed Seed
 (15175, 22148, 0, 0, 0, 0), -- Wild Quillvine
-(15175, 21835, 0, 0, 0, 0), -- Anesthetic Poison
-(15175, 21927, 0, 0, 0, 0), -- Instant Poison VII
-(15175, 22053, 0, 0, 0, 0), -- Deadly Poison VI
-(15175, 22054, 0, 0, 0, 0), -- Deadly Poison VII
-(15175, 22055, 0, 0, 0, 0), -- Wound Poison V
 -- Mishta <Trade Supplies>
 (15179, 18256, 0, 0, 0, 0), -- Imbued Vial
 -- Vi'el <Exotic Reagent Merchant>
