@@ -8,8 +8,6 @@ ProgressionMgr* ProgressionMgr::instance()
     return &instance;
 }
 
-Progression::Progression() : AllBattlegroundScript("ProgressionAllBattlegroundScript"), DatabaseScript("ProgressionDatabaseScript"), MailScript("ProgressionMailScript"), PlayerScript("ProgressionPlayerScript") , UnitScript("ProgressionUnitScript"), WorldScript("ProgressionWorldScript") {}
-
 void AddSC_spell_mark_of_kazzak();
 void AddSC_instance_blackrock_spire_progression();
 void AddSC_go_scarab_gong();
@@ -22,7 +20,12 @@ void AddSC_npc_archmage_timear();
 
 void Addmod_progressionScripts()
 {
-    new Progression();
+    new ProgressionAllBattlegroundScript();
+    new ProgressionDatabaseScript();
+    new ProgressionMailScript();
+    new ProgressionPlayerScript();
+    new ProgressionUnitScript();
+    new ProgressionWorldScript();
 
     uint8 phaseId = sConfigMgr->GetOption<uint8>("Progression.Phase", 18);
 
